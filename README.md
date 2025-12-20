@@ -29,19 +29,19 @@ This repository includes code to generate the figures in this paper.
 
 ### Figures
 
-#### Figure 01: Figure Name
+#### Figure 01: Symmetry resolved entanglement and the corresponding particle number distribution from a proposed entanglement spectrum.
 <img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/PnvsSn.svg" width="400px">
 
-#### Figure 02: Figure Name
+#### Figure 02:  Rényi Index dependent transition in entanglement entropy scaling for a proposed entanglement spectrum
 <img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/EntanglementEntropyScaling_spectrum.svg" width="400px">
 
-#### Figure 03: Figure Name
+#### Figure 03: Symmetry resolved entanglement and the corresponding particle number distribution from a proposed quantum state.
 <img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/PnvsSnState.svg" width="400px">
 
-#### Figure 04: Figure Name
+#### Figure 04: Rényi Index dependent transition in entanglement entropy scaling for a proposed proposed quantum state
 <img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/EntanglementEntropyScaling_state.svg" width="400px">
 
-#### Figure 05: Figure Name
+#### Figure 05: Proposed entanglement measure for the Rényi index $\alpha\ge2$ detaching the scaling transition for $\alpha=1$
 <img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/EntanglementEntropyAverage.svg" width="400px">
 
 
