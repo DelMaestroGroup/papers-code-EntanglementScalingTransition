@@ -30,7 +30,20 @@ This repository includes code to generate the figures in this paper.
 ### Figures
 
 #### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/figure01.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/figure01.svg" width="400px">
+
+#### Figure 02: Figure Name
+<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/figure02.svg" width="400px">
+
+#### Figure 03: Figure Name
+<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/figure03.svg" width="400px">
+
+#### Figure 04: Figure Name
+<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/figure04.svg" width="400px">
+
+#### Figure 05: Figure Name
+<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/figure05.svg" width="400px">
+
 
 This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
