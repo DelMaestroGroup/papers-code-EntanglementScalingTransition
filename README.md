@@ -30,7 +30,7 @@ This repository includes code to generate the figures in this paper.
 ### Figures
 
 #### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/PnvsSn.pdf" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/PnvsSn.svg" width="400px">
 
 #### Figure 02: Figure Name
 <img src="https://github.com/DelMaestroGroup/papers-code-EntanglementScalingTransition/blob/main/figures/EntanglementEntropyScaling_spectrum.svg" width="400px">
