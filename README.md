@@ -1,11 +1,12 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2512.24533-B31B1B.svg)](https://arxiv.org/abs/2512.24533)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXYYYYY)
 
 # Detection of a Rényi Index Dependent Transition in Entanglement Entropy Scaling
 
 Hatem Barghathi and Adrian Del Maestro
 
-[arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
+[arXiv:2512.24533](https://arxiv.org/abs/2512.24533)
+
 
 ### Abstract
 The scaling of the von Neumann entanglement entropy in $d$-dimensional quantum systems with the size $L$ of a spatial partition provides essential information about the underlying phases, such as different topological and critical phases. Measuring the von Neumann entanglement entropy in experiments and quantum Monte Carlo simulations is very costly. Instead, a lower bond, namely the second Rényi entropy, can be accessed using two copies of the system (the replica trick), where in many quantum systems, it demonstrates similar scaling to the von Neumann entanglement entropy. However, Sugino and Korepiny (Int. J. Mod. Phys. B 32, 1850306 (2018)) revealed that in the ground state of some spin models, the scaling of the von Neumann and second Rényi entropies varies from power law to logarithmic scaling. We show that in the presence of conservation laws (symmetry), a quantum many-body state can be constructed with such distinct entropy scaling. Also, we demonstrate that having access to the second Rényi entropy and its symmetry resolution provides an alternative entropy measure as a lower bound on the corresponding von Neumann entanglement entropy. We show that such a symmetry-resolved measure is capable of indicating the presence of such distinct entropy scaling if associated with the targeted symmetry. In the case of efficient experimental and numerical protocols for measuring the entanglement entropy, where the restriction of having integer $\alpha\ge2$ is present, we introduce a lower bound on the entanglement entropy for $\alpha<2$ using the $\alpha=2$ symmetry resolved entanglement entropy, which could detect an $\alpha$-dependent transition in the entanglement entropy scaling.
