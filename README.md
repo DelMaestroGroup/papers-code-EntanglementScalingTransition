@@ -1,5 +1,5 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2512.24533-B31B1B.svg)](https://arxiv.org/abs/2512.24533)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXYYYYY)
+[![DOI](https://zenodo.org/badge/1120146458.svg)](https://doi.org/10.5281/zenodo.18118761)
 
 # Detection of a Rényi Index Dependent Transition in Entanglement Entropy Scaling
 
