@@ -22,10 +22,9 @@ This repository includes code to generate the figures in this paper.
 3. ...-->
 
 ### Support
-<!--The creation of these materials was supported in part by the {INSERT FUNDING AGENCY} under Award No. [{AWARD NUMBER}](https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=delmaestro).
+The creation of these materials was supported in part by the Department of Energy, Office of Basic Energy Sciences under grant No. DE-SC0022311.
 
-<img width="400px" src="https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg">
-<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">-->
+<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">
 
 
 ### Figures
